@@ -1,4 +1,5 @@
-## WORD COUNTER :
+## WORD COUNTER 
+### DESCRIPTION :
 #### In this project have to print the first three most common words that appear in a given text.
 ### STEPS TO RUN THE PROJECT :
 #### STEP 1 : Press "ctrl + shift + i" to open the console.
